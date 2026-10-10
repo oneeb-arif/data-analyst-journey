@@ -69,6 +69,6 @@ Build a strong foundation in Excel, SQL, Power BI, and Python, and turn what I l
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/oneebarif/
-- GitHub: https://github.com/oneeb-dev
+- GitHub: https://github.com/oneeb-arif
 
 If you are also learning Data Analytics, feel free to connect and learn together.
